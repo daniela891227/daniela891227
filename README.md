@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniela.
+- 👋 Hi, I’m Daniela, i’m an industrial engineer, ex RPA developer and a data analytics newbie.
 - 👀 I’m interested in Data Analytics and Data Science.
 - 🌱 I’m currently learning Python.
 
